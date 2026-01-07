@@ -75,9 +75,10 @@ Me encuentro en constante fortalecimiento de competencias técnicas, con una ori
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexander-seydewitz\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexander-seydewitz\&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-seydewitz\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-seydewitz&layout=compact)
+
 
 ---
 
