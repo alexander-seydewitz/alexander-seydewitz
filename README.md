@@ -29,8 +29,8 @@ Me encuentro en constante fortalecimiento de competencias técnicas, con una ori
 
 ### Backend
 
-* Spring Boot (en formación)
-* Node.js (fundamentos)
+* Spring Boot (aprendizaje)
+* Node.js (nivel básico)
 
 ### Frontend
 
@@ -48,16 +48,16 @@ Me encuentro en constante fortalecimiento de competencias técnicas, con una ori
 ### Big Data & Cloud
 
 * Google Cloud Platform (GCP)
-* Consultas analíticas y manejo de grandes volúmenes de datos
+* Consultas analíticas en BigQuery y gestión de grandes volúmenes de datos en GCP
 
 ### Control de Versiones
 
 * Git
 * GitHub
-* Docker
 
 ### Herramientas
 
+* Docker
 * Visual Studio Code
 * IntelliJ IDEA
 
@@ -66,10 +66,10 @@ Me encuentro en constante fortalecimiento de competencias técnicas, con una ori
 ## 📂 Proyectos
 
 * **Análisis de Datos – Taxis de Nueva York**
-  Proyecto orientado al análisis de grandes volúmenes de datos utilizando Big Data y servicios cloud.
+  Proyecto orientado al análisis de grandes volúmenes de datos utilizando BigQuery y Google Cloud Platform.
 
 * **StockFlow – Sistema de Gestión de Inventarios**
-  Sistema enfocado en la gestión de inventarios para pequeñas y medianas empresas.
+  Sistema enfocado en la gestión de inventarios para pymes, desarrollado con Node.js y MySQL.
 
 ---
 
